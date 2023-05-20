@@ -1,4 +1,4 @@
-
+![logo](https://github.com/arpan-1010/arpan-1010/blob/main/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm Arpan Mondal</h1>
 <h3 align="center">A passionate software developer from India</h3>
 <img align="right" alt="developer" width="350" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
